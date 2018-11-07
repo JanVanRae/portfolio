@@ -1,0 +1,44 @@
+body{
+	background-image: url("../images/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1{
+	font-size: 80px;
+	font-weight: normal;
+	margin-bottom: 0
+}
+
+h2{
+	font-size: 30px;
+	margin-bottom: 0
+}
+
+.bio{
+	font-size: 20px;
+}
+
+.me{
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+#container{
+	width: 1500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#txt{
+	width: 1500px;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 1%;
+	border-style: solid;
+	border-color: white;
+}
